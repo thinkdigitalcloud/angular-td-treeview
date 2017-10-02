@@ -1,0 +1,27 @@
+{
+  "name": "angular-td-treeview",
+  "homepage": "https://github.com/thinkdigitalcloud/angular-td-treeview",
+  "authors": [
+    "craighaworth <craig.haworth@ssa.co.za>"
+  ],
+  "description": "",
+  "main": [
+    "dist/ivh-treeview.js",
+    "dist/ivh-treeview.css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.6.0"
+  },
+  "devDependencies": {
+    "jquery": "~2.1.1",
+    "angular-mocks": "~1.6.0"
+  }
+}
